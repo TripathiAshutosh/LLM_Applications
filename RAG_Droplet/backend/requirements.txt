@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+langchain
+langchain-openai
+langchain-community
+faiss-cpu
+pypdf2
+python-dotenv
+pydantic
+pydantic-settings
